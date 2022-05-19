@@ -5,4 +5,4 @@
 # Usage: Type the following in terminal and then press return or enter
 # Then type the given name 'myIPAddress' in terminal as is to get your IP Address
 
-alias myIP="echo $(ifconfig | grep broadcast | awk '{print $2}')"
+alias myIPAddress="echo $(ifconfig | grep broadcast | awk '{print $2}')"
