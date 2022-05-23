@@ -1,0 +1,5 @@
+This is a send to file example and we use the "cat" command to write to a text file directly from terminal in bash.
+It is interesting you can actually type even more paragraphs, not just one.
+
+When you want to get out of this you can simply press ctrl D on the keyboard.However, if you want to append more text to this file after writing out of it, you would need to update the cat command with a double greater sign, i.e. '>>' so as not to overwrite whats already in this document.
+Happy learning!
